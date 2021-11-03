@@ -1,0 +1,334 @@
+2021-10-21 20:54:03,057  INFO [main] framework1_v1:18 - Url is opened
+ 2021-10-21 20:54:08,037  INFO [main] framework1_v1:26 - Username provided
+ 2021-10-21 20:54:08,214  INFO [main] framework1_v1:28 - Password provided
+ 2021-10-21 20:54:19,623  INFO [main] framework1_v1:30 - Clicked on signin
+ 2021-10-21 20:54:19,818 DEBUG [main] framework1_v1:19 - Login successfully done.
+ 2021-10-21 20:54:21,254 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+ 2021-10-21 20:54:21,259 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+ 2021-10-21 20:54:21,267 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-10-21 20:54:21,272 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-10-21 20:54:21,275 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-10-22 09:19:48,761  INFO [main] framework1_v1:19 - Url is opened
+ 2021-10-22 09:19:49,422  INFO [main] framework1_v1:23 - Product name provided
+ 2021-10-22 09:19:53,447  INFO [main] framework1_v1:25 - Clicked on search
+ 2021-10-22 09:20:03,635 DEBUG [main] framework1_v1:19 - Able to add product in cart
+ 2021-10-22 09:20:08,892  INFO [main] framework1_v1:17 - Url is opened
+ 2021-10-22 09:20:22,872  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+ 2021-10-22 09:20:23,028  INFO [main] framework1_v1:28 - Got the price of product
+ 2021-10-22 09:20:23,108  INFO [main] framework1_v1:32 - Got the discount on product
+ 2021-10-22 09:20:23,109 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+ 2021-10-22 09:20:26,870  INFO [main] framework1_v1:18 - Url is opened
+ 2021-10-22 09:20:41,190  INFO [main] framework1_v1:17 - Url is opened
+ 2021-10-22 09:20:47,076 DEBUG [main] framework1_v1:19 - Blog read Successfully
+ 2021-10-22 09:20:49,001 DEBUG [main] framework1_v1:19 - Comment couldn't be posted
+ 2021-10-22 09:20:55,704  INFO [main] framework1_v1:22 - Url is opened
+ 2021-10-22 09:20:56,639  INFO [main] framework1_v1:26 - The Secretis entered into the searchBox
+ 2021-10-22 09:21:01,087  INFO [main] framework1_v1:28 - clicked on search
+ 2021-10-22 09:21:07,141  INFO [main] framework1_v1:32 - moving back
+ 2021-10-22 09:21:07,142 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+ 2021-10-22 09:21:12,888  INFO [main] framework1_v1:22 - Url is opened
+ 2021-10-22 09:21:13,766  INFO [main] framework1_v1:26 - Mobile Coveris entered into the searchBox
+ 2021-10-22 09:21:15,285  INFO [main] framework1_v1:28 - clicked on search
+ 2021-10-22 09:21:21,231  INFO [main] framework1_v1:32 - moving back
+ 2021-10-22 09:21:21,232 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+ 2021-10-22 09:21:25,739  INFO [main] framework1_v1:22 - Url is opened
+ 2021-10-22 09:21:26,336  INFO [main] framework1_v1:26 - Readers mugis entered into the searchBox
+ 2021-10-22 09:21:30,185  INFO [main] framework1_v1:28 - clicked on search
+ 2021-10-22 09:21:35,842  INFO [main] framework1_v1:32 - moving back
+ 2021-10-22 09:21:35,842 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+ 2021-10-22 09:21:38,097 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+ 2021-10-22 09:21:38,100 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+ 2021-10-22 09:21:38,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-10-22 09:21:38,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-10-22 09:21:38,107 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-10-22 09:56:51,378  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 09:56:57,684  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-22 09:56:57,868  INFO [main] framework1_v1:28 - Got the price of product
+2021-10-22 09:56:57,909  INFO [main] framework1_v1:32 - Got the discount on product
+2021-10-22 09:56:57,910 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-22 09:57:00,040 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 09:57:00,043 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 09:57:00,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 09:57:00,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 09:57:00,050 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 10:01:22,215  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 10:01:30,277  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-22 10:01:30,770  INFO [main] framework1_v1:28 - Got the price of product
+2021-10-22 10:01:31,041  INFO [main] framework1_v1:32 - Got the discount on product
+2021-10-22 10:01:31,044 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-22 10:01:33,302 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 10:01:33,304 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 10:01:33,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 10:01:33,310 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 10:01:33,310 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 10:02:18,671  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 10:02:24,307  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-22 10:02:24,370  INFO [main] framework1_v1:28 - Got the price of product
+2021-10-22 10:02:24,411  INFO [main] framework1_v1:32 - Got the discount on product
+2021-10-22 10:02:24,413 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-22 10:02:25,947 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 10:02:25,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 10:02:25,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 10:02:25,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 10:02:25,957 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 10:03:22,031  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 10:03:27,304  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-22 10:03:27,353  INFO [main] framework1_v1:28 - Got the price of product
+2021-10-22 10:03:27,400  INFO [main] framework1_v1:32 - Got the discount on product
+2021-10-22 10:03:27,402 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-22 10:03:29,033 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 10:03:29,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 10:03:29,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 10:03:29,040 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 10:03:29,041 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 11:47:30,757  INFO [main] framework1_v1:19 - Url is opened
+2021-10-22 11:47:31,516  INFO [main] framework1_v1:23 - Product name provided
+2021-10-22 11:47:31,676  INFO [main] framework1_v1:25 - Clicked on search
+2021-10-22 11:48:01,108 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-10-22 11:48:06,362  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 11:49:52,178  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-22 11:49:52,330  INFO [main] framework1_v1:28 - Got the price of product
+2021-10-22 11:49:52,403  INFO [main] framework1_v1:32 - Got the discount on product
+2021-10-22 11:49:52,404 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-22 11:49:56,351  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 11:50:20,074 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-10-22 11:50:26,139 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-10-22 11:50:33,498  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 11:50:34,087  INFO [main] framework1_v1:26 - The Secretis entered into the searchBox
+2021-10-22 11:50:45,838  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 11:50:51,959  INFO [main] framework1_v1:32 - moving back
+2021-10-22 11:50:51,961 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 11:50:55,633  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 11:50:56,432  INFO [main] framework1_v1:26 - Mobile Coveris entered into the searchBox
+2021-10-22 11:51:04,886  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 11:51:10,724  INFO [main] framework1_v1:32 - moving back
+2021-10-22 11:51:10,725 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 11:51:14,898  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 11:51:15,994  INFO [main] framework1_v1:26 - Readers mugis entered into the searchBox
+2021-10-22 11:51:16,393  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 11:51:22,822  INFO [main] framework1_v1:32 - moving back
+2021-10-22 11:51:22,822 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 11:51:24,903 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 11:51:24,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 11:51:24,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 11:51:24,910 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 11:51:24,911 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 12:42:59,902  INFO [main] framework1_v1:19 - Url is opened
+2021-10-22 12:43:00,347  INFO [main] framework1_v1:23 - Product name provided
+2021-10-22 12:43:00,665  INFO [main] framework1_v1:25 - Clicked on search
+2021-10-22 12:43:17,246 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-10-22 12:43:21,896  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 12:43:26,062  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-22 12:43:26,174  INFO [main] framework1_v1:28 - Got the price of product
+2021-10-22 12:43:26,397  INFO [main] framework1_v1:32 - Got the discount on product
+2021-10-22 12:43:26,399 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-22 12:43:30,314  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 12:43:49,956  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 12:43:51,083  INFO [main] framework1_v1:26 - The Secretis entered into the searchBox
+2021-10-22 12:43:54,948  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 12:44:01,287  INFO [main] framework1_v1:32 - moving back
+2021-10-22 12:44:01,288 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 12:44:05,510  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 12:44:06,175  INFO [main] framework1_v1:26 - Mobile Coveris entered into the searchBox
+2021-10-22 12:44:09,295  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 12:44:15,393  INFO [main] framework1_v1:32 - moving back
+2021-10-22 12:44:15,394 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 12:44:20,095  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 12:44:20,995  INFO [main] framework1_v1:26 - Readers mugis entered into the searchBox
+2021-10-22 12:44:24,189  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 12:44:29,937  INFO [main] framework1_v1:32 - moving back
+2021-10-22 12:44:29,937 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 12:44:31,705 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 12:44:31,710 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 12:44:31,716 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 12:44:31,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 12:44:31,722 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 12:49:52,173  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 12:50:36,459 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 12:50:36,461 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 12:50:36,464 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 12:50:36,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 12:50:36,466 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 12:52:26,023  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 12:52:56,946 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-10-22 12:53:04,995 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-10-22 12:53:06,241 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 12:53:06,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 12:53:06,249 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 12:53:06,253 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 12:53:06,256 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-22 12:55:52,359  INFO [main] framework1_v1:19 - Url is opened
+2021-10-22 12:55:53,208  INFO [main] framework1_v1:23 - Product name provided
+2021-10-22 12:55:53,570  INFO [main] framework1_v1:25 - Clicked on search
+2021-10-22 12:56:33,552 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-10-22 12:56:39,503  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 12:58:46,434  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-22 12:58:46,598  INFO [main] framework1_v1:28 - Got the price of product
+2021-10-22 12:58:46,679  INFO [main] framework1_v1:32 - Got the discount on product
+2021-10-22 12:58:46,680 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-22 12:58:51,958  INFO [main] framework1_v1:17 - Url is opened
+2021-10-22 12:59:10,418 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-10-22 12:59:15,850 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-10-22 12:59:23,127  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 12:59:24,187  INFO [main] framework1_v1:26 - The Secretis entered into the searchBox
+2021-10-22 12:59:43,360  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 13:00:14,367  INFO [main] framework1_v1:32 - moving back
+2021-10-22 13:00:14,370 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 13:00:19,279  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 13:00:19,870  INFO [main] framework1_v1:26 - Mobile Coveris entered into the searchBox
+2021-10-22 13:00:22,870  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 13:00:28,462  INFO [main] framework1_v1:32 - moving back
+2021-10-22 13:00:28,463 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 13:00:31,844  INFO [main] framework1_v1:22 - Url is opened
+2021-10-22 13:00:32,594  INFO [main] framework1_v1:26 - Readers mugis entered into the searchBox
+2021-10-22 13:00:35,467  INFO [main] framework1_v1:28 - clicked on search
+2021-10-22 13:00:40,730  INFO [main] framework1_v1:32 - moving back
+2021-10-22 13:00:40,731 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-22 13:00:42,270 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-10-22 13:00:42,272 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-10-22 13:00:42,277 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-22 13:00:42,279 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-22 13:00:42,282 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 22:30:48,074  INFO [main] framework1_v1:19 - Url is opened
+2021-10-24 22:30:48,860  INFO [main] framework1_v1:23 - Product name provided
+2021-10-24 22:30:52,707  INFO [main] framework1_v1:25 - Clicked on search
+2021-10-24 22:31:03,873 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-10-28 20:07:07,995  INFO [main] framework1_v1:19 - Url is opened
+2021-10-28 20:07:08,702  INFO [main] framework1_v1:23 - Product name provided
+2021-10-28 20:07:18,577  INFO [main] framework1_v1:25 - Clicked on search
+2021-10-28 20:07:43,904 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-10-28 21:45:34,166  INFO [main] framework1_v1:18 - Url is opened
+2021-10-28 21:45:34,672  INFO [main] framework1_v1:22 - Product name provided
+2021-10-28 21:45:45,986  INFO [main] framework1_v1:24 - Clicked on search
+2021-10-28 21:46:04,583 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-10-28 21:46:13,131  INFO [main] framework1_v1:16 - Url is opened
+2021-10-28 21:46:50,794  INFO [main] framework1_v1:23 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-10-28 21:46:50,978  INFO [main] framework1_v1:27 - Got the price of product
+2021-10-28 21:46:51,039  INFO [main] framework1_v1:31 - Got the discount on product
+2021-10-28 21:46:51,039 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-10-28 21:47:13,502  INFO [main] framework1_v1:16 - Url is opened
+2021-10-28 21:48:34,551 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-10-28 21:49:06,813 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-10-28 21:49:16,431  INFO [main] framework1_v1:21 - Url is opened
+2021-10-28 21:49:17,200  INFO [main] framework1_v1:25 - The Secretis entered into the searchBox
+2021-10-28 21:49:45,726  INFO [main] framework1_v1:27 - clicked on search
+2021-10-28 21:49:51,873  INFO [main] framework1_v1:31 - moving back
+2021-10-28 21:49:51,874 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-28 21:49:57,971  INFO [main] framework1_v1:21 - Url is opened
+2021-10-28 21:49:58,631  INFO [main] framework1_v1:25 - Mobile Coveris entered into the searchBox
+2021-10-28 21:50:11,573  INFO [main] framework1_v1:27 - clicked on search
+2021-10-28 21:50:21,650  INFO [main] framework1_v1:31 - moving back
+2021-10-28 21:50:21,651 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-10-28 21:50:32,491  INFO [main] framework1_v1:21 - Url is opened
+2021-10-28 21:50:33,279  INFO [main] framework1_v1:25 - Readers mugis entered into the searchBox
+2021-10-28 21:50:40,815  INFO [main] framework1_v1:27 - clicked on search
+2021-10-28 21:50:46,850  INFO [main] framework1_v1:31 - moving back
+2021-10-28 21:50:46,850 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:37:28,501  INFO [main] framework1_v1:18 - Url is opened
+2021-11-02 12:37:30,069  INFO [main] framework1_v1:22 - Product name provided
+2021-11-02 12:37:30,707  INFO [main] framework1_v1:24 - Clicked on search
+2021-11-02 12:37:43,474 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-11-02 12:37:50,649  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:38:05,190  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:38:12,793 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-11-02 12:38:19,038 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-11-02 12:38:25,435  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:38:26,751  INFO [main] framework1_v1:25 - The Secretis entered into the searchBox
+2021-11-02 12:38:32,861  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:38:38,833  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:38:38,833 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:38:43,557  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:38:45,189  INFO [main] framework1_v1:25 - Mobile Coveris entered into the searchBox
+2021-11-02 12:38:49,216  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:38:55,052  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:38:55,053 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:39:00,330  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:39:01,442  INFO [main] framework1_v1:25 - Readers mugis entered into the searchBox
+2021-11-02 12:39:04,827  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:39:11,095  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:39:11,096 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:45:01,854  INFO [main] framework1_v1:18 - Url is opened
+2021-11-02 12:45:02,571  INFO [main] framework1_v1:22 - Product name provided
+2021-11-02 12:45:06,805  INFO [main] framework1_v1:24 - Clicked on search
+2021-11-02 12:45:18,358 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-11-02 12:45:26,633  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:45:53,686  INFO [main] framework1_v1:23 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-11-02 12:45:53,969  INFO [main] framework1_v1:27 - Got the price of product
+2021-11-02 12:45:54,241  INFO [main] framework1_v1:31 - Got the discount on product
+2021-11-02 12:45:54,242 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-11-02 12:45:58,993  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:46:05,330 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-11-02 12:46:11,147 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-11-02 12:46:16,635  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:46:17,967  INFO [main] framework1_v1:25 - The Secretis entered into the searchBox
+2021-11-02 12:46:22,030  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:46:27,870  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:46:27,873 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:46:33,068  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:46:33,776  INFO [main] framework1_v1:25 - Mobile Coveris entered into the searchBox
+2021-11-02 12:46:37,151  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:46:42,794  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:46:42,795 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:46:46,835  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:46:47,643  INFO [main] framework1_v1:25 - Readers mugis entered into the searchBox
+2021-11-02 12:46:51,783  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:46:57,362  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:46:57,363 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:49:15,117  INFO [main] framework1_v1:18 - Url is opened
+2021-11-02 12:49:16,041  INFO [main] framework1_v1:22 - Product name provided
+2021-11-02 12:49:20,500  INFO [main] framework1_v1:24 - Clicked on search
+2021-11-02 12:49:31,631  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:49:46,717  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:49:53,177 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-11-02 12:49:58,617 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-11-02 12:50:03,503  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:50:04,140  INFO [main] framework1_v1:25 - The Secretis entered into the searchBox
+2021-11-02 12:50:10,053  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:50:15,506  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:50:15,506 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:50:19,771  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:50:20,636  INFO [main] framework1_v1:25 - Mobile Coveris entered into the searchBox
+2021-11-02 12:50:24,149  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:50:30,651  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:50:30,654 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:50:35,906  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 12:50:36,368  INFO [main] framework1_v1:25 - Readers mugis entered into the searchBox
+2021-11-02 12:50:40,359  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 12:50:45,961  INFO [main] framework1_v1:31 - moving back
+2021-11-02 12:50:45,961 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 12:53:57,506  INFO [main] framework1_v1:18 - Url is opened
+2021-11-02 12:53:58,088  INFO [main] framework1_v1:22 - Product name provided
+2021-11-02 12:54:01,850  INFO [main] framework1_v1:24 - Clicked on search
+2021-11-02 12:54:11,638 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-11-02 12:54:15,893  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:54:29,859  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 12:54:36,073 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-11-02 12:54:41,101 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-11-02 12:54:42,754  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 13:00:27,502  INFO [main] framework1_v1:18 - Url is opened
+2021-11-02 13:00:28,505  INFO [main] framework1_v1:22 - Product name provided
+2021-11-02 13:00:33,424  INFO [main] framework1_v1:24 - Clicked on search
+2021-11-02 13:00:44,252 DEBUG [main] framework1_v1:19 - Able to add product in cart
+2021-11-02 13:00:50,110  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 13:00:53,514  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+2021-11-02 13:00:58,403  INFO [main] framework1_v1:28 - Got the price of product
+2021-11-02 13:00:58,671  INFO [main] framework1_v1:32 - Got the discount on product
+2021-11-02 13:00:58,671 DEBUG [main] framework1_v1:19 - Able to fetch the Product details.
+2021-11-02 13:01:03,561  INFO [main] framework1_v1:16 - Url is opened
+2021-11-02 13:01:09,661 DEBUG [main] framework1_v1:19 - Blog read Successfully
+2021-11-02 13:01:14,684 DEBUG [main] framework1_v1:19 - Comment has been posted
+2021-11-02 13:01:19,206  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 13:01:19,621  INFO [main] framework1_v1:25 - The Secretis entered into the searchBox
+2021-11-02 13:01:23,556  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 13:01:29,623  INFO [main] framework1_v1:31 - moving back
+2021-11-02 13:01:29,625 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 13:01:34,578  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 13:01:35,357  INFO [main] framework1_v1:25 - Mobile Coveris entered into the searchBox
+2021-11-02 13:01:38,891  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 13:01:44,836  INFO [main] framework1_v1:31 - moving back
+2021-11-02 13:01:44,837 DEBUG [main] framework1_v1:19 - SearchDDT is done.
+2021-11-02 13:01:50,088  INFO [main] framework1_v1:21 - Url is opened
+2021-11-02 13:01:50,750  INFO [main] framework1_v1:25 - Readers mugis entered into the searchBox
+2021-11-02 13:01:54,389  INFO [main] framework1_v1:27 - clicked on search
+2021-11-02 13:02:00,072  INFO [main] framework1_v1:31 - moving back
+2021-11-02 13:02:00,073 DEBUG [main] framework1_v1:19 - SearchDDT is done.

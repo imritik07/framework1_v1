@@ -1,0 +1,11 @@
+2021-10-21 16:11:48,359  INFO [main] framework1_v1:17 - Url is opened
+ 2021-10-21 16:11:54,363  INFO [main] framework1_v1:24 - Clicked on a product ELOCALSHOP BOX - 10 books
+ 2021-10-21 16:11:54,538  INFO [main] framework1_v1:28 - Got the price of product
+ 2021-10-21 16:11:54,587  INFO [main] framework1_v1:32 - Got the discount on product
+ 2021-10-21 16:11:54,590 DEBUG [main] framework1_v1:25 - Couldn't fetch The detailsGet Product Details Failed
+ 2021-10-21 16:11:56,302 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+ 2021-10-21 16:11:56,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+ 2021-10-21 16:11:56,318 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-10-21 16:11:56,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-10-21 16:11:56,377 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 

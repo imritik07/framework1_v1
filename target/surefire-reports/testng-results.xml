@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="13" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="101596" started-at="2021-11-02T13:00:19 IST" finished-at="2021-11-02T13:02:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="101596" started-at="2021-11-02T13:00:19 IST" finished-at="2021-11-02T13:02:00 IST">
+      <class name="com.mindtree.runner.TC_SearchingProductDDT_005">
+        <test-method status="PASS" signature="searchDDTProduct(java.lang.String)[pri:0, instance:com.mindtree.runner.TC_SearchingProductDDT_005@64bf3bbf]" name="searchDDTProduct" duration-ms="14904" started-at="2021-11-02T13:01:15 IST" data-provider="productDetails1" finished-at="2021-11-02T13:01:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Secret]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchDDTProduct -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mindtree.runner.TC_SearchingProductDDT_005@64bf3bbf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-11-02T13:01:30 IST" finished-at="2021-11-02T13:01:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="searchDDTProduct(java.lang.String)[pri:0, instance:com.mindtree.runner.TC_SearchingProductDDT_005@64bf3bbf]" name="searchDDTProduct" duration-ms="14590" started-at="2021-11-02T13:01:30 IST" data-provider="productDetails1" finished-at="2021-11-02T13:01:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile Cover]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchDDTProduct -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mindtree.runner.TC_SearchingProductDDT_005@64bf3bbf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-11-02T13:01:45 IST" finished-at="2021-11-02T13:01:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="searchDDTProduct(java.lang.String)[pri:0, instance:com.mindtree.runner.TC_SearchingProductDDT_005@64bf3bbf]" name="searchDDTProduct" duration-ms="15209" started-at="2021-11-02T13:01:45 IST" data-provider="productDetails1" finished-at="2021-11-02T13:02:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Readers mug]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchDDTProduct -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mindtree.runner.TC_SearchingProductDDT_005@64bf3bbf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-11-02T13:02:00 IST" finished-at="2021-11-02T13:02:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.mindtree.runner.TC_SearchingProductDDT_005 -->
+      <class name="com.mindtree.runner.TC_GettingAProductDetails_002">
+        <test-method status="PASS" signature="getProductDetails()[pri:0, instance:com.mindtree.runner.TC_GettingAProductDetails_002@192b07fd]" name="getProductDetails" duration-ms="14845" started-at="2021-11-02T13:00:44 IST" finished-at="2021-11-02T13:00:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductDetails -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mindtree.runner.TC_GettingAProductDetails_002@192b07fd]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-11-02T13:00:59 IST" finished-at="2021-11-02T13:00:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.mindtree.runner.TC_GettingAProductDetails_002 -->
+      <class name="com.mindtree.runner.TC_SearchAndAddToCart_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mindtree.runner.TC_SearchAndAddToCart_001@20322d26]" name="setup" is-config="true" duration-ms="3354" started-at="2021-11-02T13:00:15 IST" finished-at="2021-11-02T13:00:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.mindtree.runner.TC_SearchAndAddToCart_001@20322d26]" name="searchProduct" duration-ms="25612" started-at="2021-11-02T13:00:19 IST" finished-at="2021-11-02T13:00:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mindtree.runner.TC_SearchAndAddToCart_001@20322d26]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-11-02T13:00:44 IST" finished-at="2021-11-02T13:00:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mindtree.runner.TC_SearchAndAddToCart_001@20322d26]" name="tearDown" is-config="true" duration-ms="1374" started-at="2021-11-02T13:02:00 IST" finished-at="2021-11-02T13:02:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mindtree.runner.TC_SearchAndAddToCart_001 -->
+      <class name="com.mindtree.runner.TC_BlogReader_004">
+        <test-method status="PASS" signature="readBlog()[pri:0, instance:com.mindtree.runner.TC_BlogReader_004@64bfbc86]" name="readBlog" duration-ms="11120" started-at="2021-11-02T13:00:59 IST" finished-at="2021-11-02T13:01:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readBlog -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mindtree.runner.TC_BlogReader_004@64bfbc86]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-11-02T13:01:10 IST" finished-at="2021-11-02T13:01:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="leaveAComment()[pri:1, instance:com.mindtree.runner.TC_BlogReader_004@64bfbc86]" name="leaveAComment" duration-ms="4331" started-at="2021-11-02T13:01:10 IST" finished-at="2021-11-02T13:01:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leaveAComment -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mindtree.runner.TC_BlogReader_004@64bfbc86]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-11-02T13:01:14 IST" finished-at="2021-11-02T13:01:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.mindtree.runner.TC_BlogReader_004 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

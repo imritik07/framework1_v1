@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="107.709" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="webdriver.chrome.driver" value="./driver/chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\Office_Work\Training\workspace\framework1_v1\target\test-classes;E:\Office_Work\Training\workspace\framework1_v1\target\classes;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\HP\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\HP\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\HP\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\HP\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\HP\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\HP\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\HP\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\HP\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\HP\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\HP\.m2\repository\org\testng\testng\7.0.0\testng-7.0.0.jar;C:\Users\HP\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\HP\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi\4.1.0\poi-4.1.0.jar;C:\Users\HP\.m2\repository\commons-codec\commons-codec\1.12\commons-codec-1.12.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-collections4\4.3\commons-collections4-4.3.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml\4.1.0\poi-ooxml-4.1.0.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.0\poi-ooxml-schemas-4.1.0.jar;C:\Users\HP\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\HP\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\HP\.m2\repository\commons-io\commons-io\2.1\commons-io-2.1.jar;C:\Users\HP\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\HP\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\HP\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;C:\Users\HP\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\HP\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;C:\Users\HP\.m2\repository\org\mongodb\bson\3.0.4\bson-3.0.4.jar;C:\Users\HP\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_231\bin"/>
+    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire8073639694489309878\surefirebooter5127733245885326411.jar C:\Users\HP\AppData\Local\Temp\surefire8073639694489309878 2021-11-02T13-00-12_712-jvmRun1 surefire4731235334894878457tmp surefire_01966426202035660641tmp"/>
+    <property name="surefire.test.class.path" value="E:\Office_Work\Training\workspace\framework1_v1\target\test-classes;E:\Office_Work\Training\workspace\framework1_v1\target\classes;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\HP\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\HP\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\HP\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\HP\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\HP\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\HP\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\HP\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\HP\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\HP\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\HP\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\HP\.m2\repository\org\testng\testng\7.0.0\testng-7.0.0.jar;C:\Users\HP\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\HP\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi\4.1.0\poi-4.1.0.jar;C:\Users\HP\.m2\repository\commons-codec\commons-codec\1.12\commons-codec-1.12.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-collections4\4.3\commons-collections4-4.3.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml\4.1.0\poi-ooxml-4.1.0.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.0\poi-ooxml-schemas-4.1.0.jar;C:\Users\HP\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\HP\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\HP\.m2\repository\commons-io\commons-io\2.1\commons-io-2.1.jar;C:\Users\HP\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\HP\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\HP\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;C:\Users\HP\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\HP\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;C:\Users\HP\.m2\repository\org\mongodb\bson\3.0.4\bson-3.0.4.jar;C:\Users\HP\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\HP"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_231"/>
+    <property name="basedir" value="E:\Office_Work\Training\workspace\framework1_v1"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire8073639694489309878\surefirebooter5127733245885326411.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_231\lib\resources.jar;C:\Program Files\Java\jre1.8.0_231\lib\rt.jar;C:\Program Files\Java\jre1.8.0_231\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_231\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_231\lib\jce.jar;C:\Program Files\Java\jre1.8.0_231\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_231\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_231\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_231-b11"/>
+    <property name="user.name" value="HP"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_231\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\HP\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\HP\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_231"/>
+    <property name="user.dir" value="E:\Office_Work\Training\workspace\framework1_v1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_231\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\HP\AppData\Local\Programs\Python\Python38-32;C:\Users\HP\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\Git\cmd;C:\Program Files\Notepad++;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;%PyCharm Community Edition%;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;E:\Office_Work\Downloads\apache-maven-3.8.2\bin;;C:\Program Files\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.231-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_231\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="searchProduct" classname="com.mindtree.runner.TC_SearchAndAddToCart_001" time="25.592">
+    <system-out><![CDATA[11-02-2021 13:00:27 TC_SearchAndAddToCart_001.java INFO  [main] framework1_v1 18 - Url is opened
+11-02-2021 13:00:28 TC_SearchAndAddToCart_001.java INFO  [main] framework1_v1 22 - Product name provided
+11-02-2021 13:00:33 TC_SearchAndAddToCart_001.java INFO  [main] framework1_v1 24 - Clicked on search
+11-02-2021 13:00:44 ExtentUtils.java DEBUG [main] framework1_v1 19 - Able to add product in cart
+]]></system-out>
+    <system-err><![CDATA[log4j:ERROR Could not find value for key log4j.appender.CONSOLE
+log4j:ERROR Could not instantiate appender named "CONSOLE".
+log4j:ERROR Could not find value for key log4j.appender.CONSOLE
+log4j:ERROR Could not instantiate appender named "CONSOLE".
+Starting ChromeDriver 94.0.4606.41 (333e85df3c9b656b518b5f1add5ff246365b6c24-refs/branch-heads/4606@{#845}) on port 46107
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1635838218.755][WARNING]: This version of ChromeDriver has not been tested with Chrome version 95.
+Nov 02, 2021 1:00:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="getProductDetails" classname="com.mindtree.runner.TC_GettingAProductDetails_002" time="14.847">
+    <system-out><![CDATA[11-02-2021 13:00:50 TC_GettingAProductDetails_002.java INFO  [main] framework1_v1 16 - Url is opened
+11-02-2021 13:00:53 TC_GettingAProductDetails_002.java INFO  [main] framework1_v1 24 - Clicked on a product ELOCALSHOP BOX - 10 books
+Product Price is: Rs. 3,499.00
+11-02-2021 13:00:58 TC_GettingAProductDetails_002.java INFO  [main] framework1_v1 28 - Got the price of product
+Discount is: 71%
+11-02-2021 13:00:58 TC_GettingAProductDetails_002.java INFO  [main] framework1_v1 32 - Got the discount on product
+11-02-2021 13:00:58 ExtentUtils.java DEBUG [main] framework1_v1 19 - Able to fetch the Product details.
+]]></system-out>
+  </testcase>
+  <testcase name="readBlog" classname="com.mindtree.runner.TC_BlogReader_004" time="11.138">
+    <system-out><![CDATA[11-02-2021 13:01:03 TC_BlogReader_004.java INFO  [main] framework1_v1 16 - Url is opened
+The festival of colours, Holi, is the most vibrant of all Hindu festivals. It marks the end of winter in India and welcomes the spring season. On this festive day, people play with colours, meet and greet one another and create new beginnings. But do you know the real reason why Holi is celebrated? Here’s all you need to know about this colourful festival and what you can look forward to during the upcoming Holi in India. The story of Holika Dahan Legend has it that once, there was a powerful king named Hiranyakashipu. He was a devil and was hated for his cruelty. He considered himself to be God and wanted everybody in his kingdom to worship him like one. However, his own son, Prahlada, was a devotee of Lord Vishnu and refused to worship his father. Angry with the disobedience of his son, Hiranyakashipu tried killing his son a number of times, but nothing worked. He then asked his evil sister, Holika, for help. Holika possessed a special power of being immune to fire. So, to kill Prahlada, she tricked him into sitting with her on a pyre. But due to her evil intentions, her power became ineffective and she was burned to ashes. On the other hand, Prahlada gained this immunity and was saved. This is why the first day of Holi is celebrated as Holika Dahan and symbolizes the victory of good over evil. In the region of Braj (where Lord Krishna grew up) in Uttar Pradesh, Holi is celebrated until the day of Rangpanchmi as a huge festival, in memory of the devotional love of Krishna and Radha. A local legend is associated with this as well. When Krishna was a baby, he acquired a distinctive blue skin colour after drinking the poisoned breast milk of the she-demon, Putana. Later, when he became young, he would often feel sad about whether the fair-coloured Radha or other girls in the village would ever like him because of his dark colour. Giving in to his desperation, Krishna’s mother asked him to go and colour Radha’s face with any colour he wanted to. So when Krishna applied colour to Radha, they both became a couple, and since then, people have started playing with colours on Holi. How is Holi celebrated in India Celebrating the colourful festival of Holi involves a number of rituals: Preparing the Holika pyre A few days prior to the festival, people start collecting wood and other inflammable things for the bonfire. The combustible materials are then gathered in a pyre in colonies, community centres, parks or other open spaces. On top of the pyre, an effigy of Holika is placed to be burned as per the legend. Holika Dahan The first day of the festival is celebrated as Holika Dahan or Chhoti Holi. After sunset, people gather around the pyre, perform puja (prayers) and then light it. People even sing and dance around the pyre, as it symbolizes the triumph of good over bad. Playing with colours The second day of Holi is called Rangwali Holi, Dhulandi, Dhulandi, Phagwah or Badi Holi. This is the day when people apply colours to one another, party and enjoy. Children and youngsters play in groups with dry colours called abir or gulal, pichkaris (water guns), water balloons filled with coloured solutions and other creative things. You might even find groups of people with drums and other musical instruments on streets, dancing and singing their way from one place to another.
+11-02-2021 13:01:09 ExtentUtils.java DEBUG [main] framework1_v1 19 - Blog read Successfully
+]]></system-out>
+  </testcase>
+  <testcase name="leaveAComment" classname="com.mindtree.runner.TC_BlogReader_004" time="4.314">
+    <system-out><![CDATA[11-02-2021 13:01:14 ExtentUtils.java DEBUG [main] framework1_v1 19 - Comment has been posted
+]]></system-out>
+  </testcase>
+  <testcase name="searchDDTProduct[The Secret](1)" classname="com.mindtree.runner.TC_SearchingProductDDT_005" time="14.907">
+    <system-out><![CDATA[11-02-2021 13:01:19 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 21 - Url is opened
+11-02-2021 13:01:19 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 25 - The Secretis entered into the searchBox
+11-02-2021 13:01:23 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 27 - clicked on search
+11-02-2021 13:01:29 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 31 - moving back
+11-02-2021 13:01:29 ExtentUtils.java DEBUG [main] framework1_v1 19 - SearchDDT is done.
+]]></system-out>
+  </testcase>
+  <testcase name="searchDDTProduct[Mobile Cover](2)" classname="com.mindtree.runner.TC_SearchingProductDDT_005" time="14.597">
+    <system-out><![CDATA[11-02-2021 13:01:34 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 21 - Url is opened
+11-02-2021 13:01:35 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 25 - Mobile Coveris entered into the searchBox
+11-02-2021 13:01:38 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 27 - clicked on search
+11-02-2021 13:01:44 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 31 - moving back
+11-02-2021 13:01:44 ExtentUtils.java DEBUG [main] framework1_v1 19 - SearchDDT is done.
+]]></system-out>
+  </testcase>
+  <testcase name="searchDDTProduct[Readers mug](3)" classname="com.mindtree.runner.TC_SearchingProductDDT_005" time="15.205">
+    <system-out><![CDATA[11-02-2021 13:01:50 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 21 - Url is opened
+11-02-2021 13:01:50 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 25 - Readers mugis entered into the searchBox
+11-02-2021 13:01:54 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 27 - clicked on search
+11-02-2021 13:02:00 TC_SearchingProductDDT_005.java INFO  [main] framework1_v1 31 - moving back
+11-02-2021 13:02:00 ExtentUtils.java DEBUG [main] framework1_v1 19 - SearchDDT is done.
+]]></system-out>
+  </testcase>
+</testsuite>
